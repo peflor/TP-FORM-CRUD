@@ -8,12 +8,7 @@
     <title>TP FORM CRUD</title>
 </head>
 <body>
-    <h1>Quel est ton régime alimentaire ?</h1>
-    <br>
-    <a href="page2.php?name=vegan">Je suis Vegan</a>
-    <br>
-    <br>
-    <a href="page2.php?name=carni">Je suis Carnivore</a>
+    
 
 </body>
 </html>
